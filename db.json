@@ -1,1 +1,22 @@
-{"transportador":{"cnpj":"0751427755000108","nome":"TRANSPORTES GILVANIO"},"nota":{"numero":123,"chave":"35200751427755000108550010000272531131573852"},"eventos":{"emitido":{"data":"14/09/2020 10:34"},"em_transito":{"data":"15/09/2020 10:34"},"entregue":{"data":"16/09/2020 10:34"}},"comprovante":null}
+{
+  "transportador": {
+    "cnpj": "0751427755000108",
+    "nome": "TRANSPORTES GILVANIO"
+  },
+  "nota": {
+    "numero": 123,
+    "chave": "35200751427755000108550010000272531131573852"
+  },
+  "eventos": {
+    "emitido": {
+      "data": "14/09/2020 10:34"
+    },
+    "em_transito": {
+      "data": "15/09/2020 10:34"
+    },
+    "entregue": {
+      "data": "16/09/2020 10:34"
+    }
+  },
+  "comprovante": null
+}
